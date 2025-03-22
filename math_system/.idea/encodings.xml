@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/account.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/AccountManage.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/AccountManage.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/Operation.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/Operation.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/Question.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/Question.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/Queue.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/Queue.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.c" charset="GBK" />
+  </component>
+</project>

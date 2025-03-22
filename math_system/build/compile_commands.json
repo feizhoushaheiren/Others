@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/13629/Desktop/math1/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/math1.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\math1.dir\\lib\\AccountManage.c.obj -c C:\\Users\\13629\\Desktop\\math1\\lib\\AccountManage.c",
+  "file": "C:/Users/13629/Desktop/math1/lib/AccountManage.c",
+  "output": "CMakeFiles/math1.dir/lib/AccountManage.c.obj"
+},
+{
+  "directory": "C:/Users/13629/Desktop/math1/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/math1.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\math1.dir\\lib\\Operation.c.obj -c C:\\Users\\13629\\Desktop\\math1\\lib\\Operation.c",
+  "file": "C:/Users/13629/Desktop/math1/lib/Operation.c",
+  "output": "CMakeFiles/math1.dir/lib/Operation.c.obj"
+},
+{
+  "directory": "C:/Users/13629/Desktop/math1/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/math1.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\math1.dir\\lib\\Question.c.obj -c C:\\Users\\13629\\Desktop\\math1\\lib\\Question.c",
+  "file": "C:/Users/13629/Desktop/math1/lib/Question.c",
+  "output": "CMakeFiles/math1.dir/lib/Question.c.obj"
+},
+{
+  "directory": "C:/Users/13629/Desktop/math1/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/math1.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\math1.dir\\lib\\Queue.c.obj -c C:\\Users\\13629\\Desktop\\math1\\lib\\Queue.c",
+  "file": "C:/Users/13629/Desktop/math1/lib/Queue.c",
+  "output": "CMakeFiles/math1.dir/lib/Queue.c.obj"
+},
+{
+  "directory": "C:/Users/13629/Desktop/math1/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/math1.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\math1.dir\\main.c.obj -c C:\\Users\\13629\\Desktop\\math1\\main.c",
+  "file": "C:/Users/13629/Desktop/math1/main.c",
+  "output": "CMakeFiles/math1.dir/main.c.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/13629/Desktop/math1/build/CMakeFiles/math1.dir
+C:/Users/13629/Desktop/math1/build/CMakeFiles/edit_cache.dir
+C:/Users/13629/Desktop/math1/build/CMakeFiles/rebuild_cache.dir
